@@ -5,7 +5,8 @@ I’m a curious Master's student specializing in Advanced Analytics and Big Data
 Here you’ll find my passion projects, from building predictive models to creating insightful dashboards. Let's connect and build something cool!
     
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/nhung-ivy-tran-87b573199/](https://www.linkedin.com/in/nhung-ivy-tran-87b573199/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhung-ivy-tran-87b573199/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat)](https://www.datascienceportfol.io/rosietran25126002)
 
 # 💻Tech Stack
 
